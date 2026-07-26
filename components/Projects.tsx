@@ -15,7 +15,7 @@ export default function Projects() {
               Contributed to the frontend of the platform.
             </p>
             <div className="project-links">
-              <a href="https://github.com/aya-dahmani/ESIcodehub" className="project-link-btn" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/aya-dahmani/ESIcodehub.git" className="project-link-btn" target="_blank" rel="noopener noreferrer">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                   <path d="M3 6h18v12H3z" />
                   <path d="m7 10 2 2-2 2" />
@@ -45,7 +45,7 @@ export default function Projects() {
               botanical-editorial aesthetic — full storefront, cart .
             </p>
             <div className="project-links">
-              <a href="https://github.com/aya-dahmani/flower-shop" className="project-link-btn" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/aya-dahmani/flower-shop.git" className="project-link-btn" target="_blank" rel="noopener noreferrer">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                   <path d="M3 6h18v12H3z" />
                   <path d="m7 10 2 2-2 2" />
@@ -53,7 +53,7 @@ export default function Projects() {
                 </svg>
                 Source
               </a>
-              <a href="https://myflower-shop.vercel.app/" className="project-link-btn" target="_blank" rel="noopener noreferrer">
+              <a href="https://flower-shop-gold-two.vercel.app/" className="project-link-btn" target="_blank" rel="noopener noreferrer">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                   <path d="M14 3h7v7" />
                   <path d="M10 14 21 3" />
