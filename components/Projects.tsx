@@ -53,7 +53,7 @@ export default function Projects() {
                 </svg>
                 Source
               </a>
-              <a href="https://flower-shop-fqkxa2k90-aya27.vercel.app/" className="project-link-btn" target="_blank" rel="noopener noreferrer">
+              <a href="https://myflower-shop.vercel.app/" className="project-link-btn" target="_blank" rel="noopener noreferrer">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                   <path d="M14 3h7v7" />
                   <path d="M10 14 21 3" />
