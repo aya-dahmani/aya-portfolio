@@ -9,7 +9,7 @@ export default function About() {
             I&apos;m a third-year Computer Science student at ESI (École
             Nationale Supérieure d&apos;Informatique) in Algeria.
           </p>
-          <p>I code random projects.</p>
+          <p>I build projects to explore ideas, learn new technologies, and turn concepts into real experiences.</p>
         </div>
         <ul className="fact-list">
           <li>

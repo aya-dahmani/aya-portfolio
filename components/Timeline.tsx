@@ -31,7 +31,7 @@ const timelineItems: TimelineItem[] = [
     date: "December 2025",
     title: "Won the first place in ESMS project with CSE club at ESI",
     description:
-      "I worked on the design of the website of the ESMS project, called 'The Golden trials ' isnpired by a hackaton style event  ",
+      "I worked on the design of the website of the ESMS project, called 'The Golden trials ' isnpired by a hackaton-style event  ",
     link: "",
   },
 ];
