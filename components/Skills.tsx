@@ -22,6 +22,7 @@ export default function Skills() {
           <div className="tag-list">
             <span className="tag">C</span>
             <span className="tag">Java</span>
+             <span className="tag">Python</span>
           </div>
         </div>
         <div className="skill-card">
